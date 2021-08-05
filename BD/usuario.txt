@@ -1,0 +1,7 @@
+*mysql -php myadmin
+
+usuario
+root
+
+clave 
+123456
